@@ -1,0 +1,4 @@
+**/.idea
+**/Frontend/client/node_modules
+**/Frontend/mockserver/node_modules
+**/Backend/node_modules
